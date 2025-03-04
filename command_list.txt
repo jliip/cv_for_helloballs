@@ -1,0 +1,4 @@
+ /usr/bin/python /app/pydev_demo/02_usb_camera_sample/switch__output_test.py
+ /usr/bin/python /app/pydev_demo/02_usb_camera_sample/usb_camera_fcos.py
+ sudo chmod 666 /dev/video0
+ netstat -tuln | grep 55555
